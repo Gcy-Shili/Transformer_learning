@@ -14,4 +14,4 @@ run :
 ```
 python3 model.py
 ```
-can get the very very start of the model , I'll use this model to try to train with some datasets , and I'll update soon.
+can get the very very start of the model and check if the model is built successfully , I'll use this model to try to train with some datasets , and I'll update soon.
